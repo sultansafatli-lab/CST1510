@@ -1,0 +1,8 @@
+dataset,rows_loaded,rows_expected,percent,status
+record 1,95,100,95.0,WARNING
+record 2,87,100,87.0,OK
+record 3,93,100,93.0,WARNING
+record 4,105,100,105.0,OVER LIMIT
+record 5,90,100,90.0,WARNING
+record 6,666,100,666.0,OVER LIMIT
+record 7,120,100,120.0,OVER LIMIT
